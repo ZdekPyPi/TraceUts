@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='traceUts',
-  version='0.0.4',
+  version='0.0.5',
   description='Trace Functions package',
   long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
   long_description_content_type='text/markdown',

@@ -3,8 +3,8 @@ LICENCE.txt
 MANIFEST.in
 README.md
 commands.txt
+run.py
 setup.py
-test.py
 traceUts/__init__.py
 traceUts.egg-info/PKG-INFO
 traceUts.egg-info/SOURCES.txt
